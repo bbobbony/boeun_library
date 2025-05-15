@@ -4,7 +4,7 @@
 ### "MBTI 4가지 속성중 주기능과 열등기능을 파악하는 것은 성격에 있어서 보완할 점, 발산할 점을 <br> 구분가능케 하고 내면의 강보은과 마주하도록 했다." <br>
 
 ### #프롤로그
-<img src="https://raw.githubusercontent.com/bbobbony/Images/main/KakaoTalk_20250508_222931647.jpg" width="400" height="350">
+<img src="https://github.com/bbobbony/Images/blob/main/KakaoTalk_20250508_222931647.jpg" width="400" height="350">
 
 ### 나의 MBTI: **ENTJ** <br>
 **주기능(정체성)**: N <br>
