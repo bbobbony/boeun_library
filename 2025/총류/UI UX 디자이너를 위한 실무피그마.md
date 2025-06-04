@@ -69,6 +69,9 @@ pt: iOS 사이즈 단위로 dp와 동일 <br>
 > [!TIP]
 > 크롬에 접속해 F12버튼을 눌러 '크롬 개발자 도구'를 확인해보자
 
+<br>
+
+![개발자도구 Element 이미지](https://github.com/bbobbony/Images/blob/main/%EB%8F%84%EC%84%9C/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-06-04%20210856.png)
 
 <br>
 <br>
