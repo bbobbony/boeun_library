@@ -14,3 +14,14 @@
 
 <br>
 
+### 🤔디자인하기 전 알아야하는 UI기술지식?
+|용어|설명|
+|--|--|
+|스크린사이즈(Screen Size)|화면의 대각선 길이, 단위는 인치|
+|해상도(resolution)|화면의 총 픽셀 수|
+|ppi(pixels per inch)|화소밀도, 디스플레이에서 인치당 픽셀 수|   
+|dpi(dots per inch)|픽셀밀도, 화면의 실제 영역 내에 있는 필셀 수|
+|dp(density-independent pixels)|안드로이드 사이즈 단위, 화면 크기와 해상도가 달라도 레이아웃을 <br> 동일한 비율로 보여주기 위해 안드로이드에서 정의한 단위|
+|sp(scale-independent pixels)|안드로이드 텍스트에서만 사용하는 단위, dp와 동일한 비율|
+|pt(point)|iOS 사이즈 단위, dp와 같은 역할
+
