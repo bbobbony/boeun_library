@@ -25,3 +25,7 @@
 |sp(scale-independent pixels)|안드로이드 텍스트에서만 사용하는 단위, dp와 동일한 비율|
 |pt(point)|iOS 사이즈 단위, dp와 같은 역할
 
+#### 해상도와 화소밀도(PPi)
+-> 화소밀도는 디스플레이에서 1인치에 들어가는 픽셀 수 이며 ppi로 나타낸다.
+따라서 해상도와 ppi가 높을수록 이미지가 선명해진다.
+[해상도에 따른 픽셀 개수]((https://github.com/bbobbony/Images/blob/d21733fe38f2e01f946f91c31138152a588e53cf/%EB%8F%84%EC%84%9C/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-06-04%20123233.png)
